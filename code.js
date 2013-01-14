@@ -5,7 +5,9 @@
  v.style.textAlign = "center";
  v.style.fontFamily = "arial, helvetica";
  v.style.fontWeight = "bold";
- v.style.fontSize = "36px";
+ v.style.fontSize = "33px";
+ v.style.marginBottom = "4px";
+ v.style.marginTop = "5px";
  v.style.color = "#fff";
  v.style.textShadow = "#000 0px 1px 3px";
  v.style.display = "none";
